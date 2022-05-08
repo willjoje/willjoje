@@ -1,13 +1,3 @@
 ### If you can think, you can code it 
 
 
-
-- 🔭 I’m currently working on ... nothing
-- 🌱 I’m currently learning ... react native
-- 👯 I’m looking to collaborate on ... web dev
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... how i meet my mother
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
