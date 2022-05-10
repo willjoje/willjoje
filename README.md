@@ -1,5 +1,8 @@
 ### If you can think, you can code it 
 
+
+
+### Coding Stats
 <!--START_SECTION:waka-->
 
 ```text
