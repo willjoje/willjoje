@@ -1,6 +1,6 @@
 ### If you can think, you can code it 
 
-
+<h1 align="center">Hi, I'm Will</h1>
 
 ### Coding Stats
 <!--START_SECTION:waka-->
