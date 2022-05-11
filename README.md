@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Will</h1>
 
-### My weekly codding status:
+### My weekly status:
 <!--START_SECTION:waka-->
 
 ```text
