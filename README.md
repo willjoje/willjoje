@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Will</h1>
 
- `` badges
+
 -   :seedling: Taking courses & doing assignments
 -   :man_scientist: [ENTP](https://www.16personalities.com/entp-personality) personality
 -   :man: Pronouns: he/him
