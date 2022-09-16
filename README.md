@@ -6,7 +6,7 @@
 -   :man: Pronouns: he/him
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/willjoje/willjoje/discussions/new)!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willjoje?theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=willjoje&theme=dark-smoky)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willjoje&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=willjoje&theme=dark-smoky)](https://git.io/streak-stats)
 
 ### My weekly status:
 <!--START_SECTION:waka-->
