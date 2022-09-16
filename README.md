@@ -22,7 +22,7 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willjoje&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjoje&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjoje&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My weekly status:
 <!--START_SECTION:waka-->
