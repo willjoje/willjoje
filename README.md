@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 11 November 2022
+From: 05 November 2022 - To: 12 November 2022
 
-JavaScript   2 hrs 14 mins   ██████████████████████▒░░   89.31 %
-C#           15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+JavaScript   1 hr 57 mins    ██████████████████████░░░   87.97 %
+C#           15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
